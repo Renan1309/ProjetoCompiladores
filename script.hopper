@@ -1,0 +1,6 @@
+program { 
+    integer x = 0;
+    for( integer i = 0 ; 10 > i ; i++ ) {
+        x++
+    }
+} 
